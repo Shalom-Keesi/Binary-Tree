@@ -32,7 +32,7 @@ nodeA.right = nodeD
 nodeB.left = nodeE
 nodeB.right = nodeF
 
-
+print("postOrderTraversal:")
 postOrderTraversal(root)
 
 
